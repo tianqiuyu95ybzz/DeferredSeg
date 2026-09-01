@@ -1,6 +1,6 @@
 # DeferredSeg
 
-Official implementation of **DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**, published in **Pattern Recognition (2026)**.
+**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**, published in **Pattern Recognition (2026)**.
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.12411)
 [![Journal](https://img.shields.io/badge/Journal-Pattern%20Recognition-0056D2.svg)](https://www.sciencedirect.com/journal/pattern-recognition)
